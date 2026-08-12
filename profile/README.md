@@ -1,5 +1,10 @@
 # 🌕 Midnight 
 
-Midnight is on a mission to End Residential Crime in America.
+Meet Midnight - The safest, most private home security system ever designed.
 
-We build AI Home Security Hardware & Software with a focus on privacy & user experience.
+We're on a mission to End Residential Crime in America.
+
+## What We Build
+
+- Hardware | AI Home Security Hardware with powerful sensors and unparalleled user experience.
+- Software | 911 Security Monitoring Integrations, built on the Home Assistant ecosystem.
