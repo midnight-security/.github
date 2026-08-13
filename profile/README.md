@@ -10,5 +10,5 @@ We're on a mission to End Residential Crime in America.
 - Software | 911 Security Monitoring Integrations, built on the Home Assistant ecosystem.
 
 ## Who We Are
-- Team | @josephrrusso : https://midnight.security/about/
+- Team | You can read more about us, over there: https://midnight.security/about/
 - Contact | You can reach us directly, right over here: team@midnight.security
