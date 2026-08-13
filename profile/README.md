@@ -1,4 +1,4 @@
-# 🌕 Midnight 
+# 🌕 Midnight Security
 
 Meet Midnight - The safest, most private home security system ever designed.
 
